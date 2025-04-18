@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>sparkleBoilerplate</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Fri, 18 Apr 2025 19:59:41 +0700</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tanandrek/sparkle-sample-release/releases/download/beta/sparkleBoilerplate.zip" length="934631" type="application/octet-stream" sparkle:edSignature="dl3jewJxmHDDxTX78ALl2g9c2IQ63ZNsiun6bkfoFiESJPSGW4HPN3Q4X5e5cvdHHwJxEq/4Ndat6pRATPW2BA=="/>
+        </item>
+    </channel>
+</rss>
