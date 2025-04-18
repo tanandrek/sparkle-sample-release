@@ -4,11 +4,11 @@
         <title>sparkleBoilerplate</title>
         <item>
             <title>0.9</title>
-            <pubDate>Fri, 18 Apr 2025 19:59:41 +0700</pubDate>
+            <pubDate>Fri, 18 Apr 2025 20:12:34 +0700</pubDate>
             <sparkle:version>0.9</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tanandrek/sparkle-sample-release/releases/download/beta/sparkleBoilerplate.zip" length="934631" type="application/octet-stream" sparkle:edSignature="dl3jewJxmHDDxTX78ALl2g9c2IQ63ZNsiun6bkfoFiESJPSGW4HPN3Q4X5e5cvdHHwJxEq/4Ndat6pRATPW2BA=="/>
+            <enclosure url="https://tanandrek.github.io/sparkle-sample-release/sparkleBoilerplate.zip" length="934637" type="application/octet-stream" sparkle:edSignature="JHkzZ/kaiHEg57PX9J9SPpx4hmd/SnQhn7uI8zMDadjdPCBwFN4m8jDpKV1NHZA23xMw3bxerAGyN0bgW5h2AA=="/>
         </item>
     </channel>
 </rss>
