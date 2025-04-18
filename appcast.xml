@@ -8,7 +8,7 @@
             <sparkle:version>0.9</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://tanandrek.github.io/sparkle-sample-release/sparkleBoilerplate.zip" length="934637" type="application/octet-stream" sparkle:edSignature="JHkzZ/kaiHEg57PX9J9SPpx4hmd/SnQhn7uI8zMDadjdPCBwFN4m8jDpKV1NHZA23xMw3bxerAGyN0bgW5h2AA=="/>
+            <enclosure url="https://github.com/tanandrek/sparkle-sample-release/releases/download/v0.9.1/sparkleBoilerplate.zip" length="934637" type="application/octet-stream" sparkle:edSignature="JHkzZ/kaiHEg57PX9J9SPpx4hmd/SnQhn7uI8zMDadjdPCBwFN4m8jDpKV1NHZA23xMw3bxerAGyN0bgW5h2AA=="/>
         </item>
     </channel>
 </rss>
