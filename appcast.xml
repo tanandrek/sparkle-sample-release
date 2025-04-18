@@ -3,12 +3,12 @@
     <channel>
         <title>sparkleBoilerplate</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Fri, 18 Apr 2025 20:12:34 +0700</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>1</title>
+            <pubDate>Fri, 18 Apr 2025 20:25:33 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tanandrek/sparkle-sample-release/releases/download/v0.9.1/sparkleBoilerplate.zip" length="934637" type="application/octet-stream" sparkle:edSignature="JHkzZ/kaiHEg57PX9J9SPpx4hmd/SnQhn7uI8zMDadjdPCBwFN4m8jDpKV1NHZA23xMw3bxerAGyN0bgW5h2AA=="/>
+            <enclosure url="https://github.com/tanandrek/sparkle-sample-release/releases/download/v1/sparkleBoilerplate.zip" length="934642" type="application/octet-stream" sparkle:edSignature="4Gr3kXzu4APOn8nahtzsu6Ikdp7iUVEO7rmqkv5MVSuz7fa4nnwv+GpQPKJhpG/6OSTSj3ngXNnXju50fQHLBA=="/>
         </item>
     </channel>
 </rss>
